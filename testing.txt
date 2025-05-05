@@ -1,0 +1,4 @@
+Probando, quiero ver como funciona git con la terminal.
+
+
+p.d. Archivo editado en vim... 
