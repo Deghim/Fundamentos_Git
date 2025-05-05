@@ -1,0 +1,7 @@
+Comandos utilizados a partir de la 5ta clase
+
+Clase 5
+- git reset
+	Devuelve a un commit anterior, eliminando los cambios en el historial
+- git revert
+	Crea un nuevo commit que "revierte" los cambios realizados por un commit especifico 
