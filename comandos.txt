@@ -4,4 +4,14 @@ Clase 5
 - git reset
 	Devuelve a un commit anterior, eliminando los cambios en el historial
 - git revert
-	Crea un nuevo commit que "revierte" los cambios realizados por un commit especifico 
+	Crea un nuevo commit que "revierte" los cambios realizados por un commit especifico
+- git tag
+	Etiqueta que aplica a un commit para identificarlo facilmente en el futuro
+	* git tag (Enlista todos los tags) 
+	* git tag -a v1.4 -m "my version 1.4"
+	* git tag -d <tagname> -> git tag -d v1.0 (Borra el tag especificado) 
+- git show
+	Muestra mas informacion acerca de un tag especifico
+	* git show <tag> -> git show v1.0
+- git checkout/switch
+	Cambiar de una rama o un commit espeficio a otro 
