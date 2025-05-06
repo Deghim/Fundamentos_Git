@@ -26,3 +26,14 @@ Un ejemplo de un token de grado fino es el siguiente:
 Los tokens pueden ser borrados despues de su creacion pero token como tal solo es visible una vez.
 
 ## Clase 31 - Seguridad de Paquetes con DependaBot
+
+Dependabot es un bot el cual verifica la seguridad en los paquetes instaladaos: control de versiones, vulnerabilidades, nivel de amenaza, etc...
+
+Es posible activar el bot de la siguiente manera:
+
+1. Navegamos a los setting del proyecto: 
+    - User-> Repo-> Settings-> Advanced Security
+
+2. Activamos las funcionalidades que queremos utilizar: Alertas, Actualziaciones de seguridad, etc... 
+
+El bot encuentra el problema y realiza una solucion con un PR utilizando diferentes ramas para evitar conflictos.
