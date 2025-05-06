@@ -13,11 +13,11 @@ Para generar un token la direccion es la siguiente:
 
 Un ejemplo de un token clasico es el siguiente:
 
-- `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`
+- `ghp_KGhazuv0Q2yaUjykcWSHoMpKY7wLWNQ3XYgIJ`
 
 Un ejemplo de un token de grado fino es el siguiente:
 
-- `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`
+- `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`
 
 |Clasico| De grado fino|
 |-|-|
