@@ -37,3 +37,13 @@ Es posible activar el bot de la siguiente manera:
 2. Activamos las funcionalidades que queremos utilizar: Alertas, Actualziaciones de seguridad, etc... 
 
 El bot encuentra el problema y realiza una solucion con un PR utilizando diferentes ramas para evitar conflictos.
+
+## Clase 32 - Configuracion Repositorios Privados
+
+La seguridad se puede basar en diferentes aspectos, estos se pueden categorizar como tips: 
+
+1. Hacer el repositorio privado
+    - Esto evita que terceros vean como esta estructurado el codigo base de la aplicación
+
+2. .gitignore
+    - Ignora elementos los cuales se pretende mantener en privado
