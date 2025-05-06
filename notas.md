@@ -47,3 +47,10 @@ La seguridad se puede basar en diferentes aspectos, estos se pueden categorizar 
 
 2. .gitignore
     - Ignora elementos los cuales se pretende mantener en privado
+
+3. Autenticacion de dos factores
+
+4. Configura alertas de seguridad
+
+5. Revoca claves expuestas
+    - Si se sube informacion sensible, revoca claves inmediatamente y rota las credenciales
