@@ -54,3 +54,7 @@ La seguridad se puede basar en diferentes aspectos, estos se pueden categorizar 
 
 5. Revoca claves expuestas
     - Si se sube informacion sensible, revoca claves inmediatamente y rota las credenciales
+
+## Clase 33 - Mitigacion Brechas de Seguridad
+
+Esta mitigacion funciona con el uso del secret scanning. Esa herramienta sirve para prevenir brechas de seguridad con información sensible: api keys, passwords, etc...
